@@ -4,10 +4,7 @@ using namespace std;
 
 int main()
 {
-    cout << "work.cpp" << endl;
-    cout << "work2.cpp" << endl;
-    cout << "hwork3.cpp" << endl;
-    cout << "hwork4.cpp" << endl;
+    cout << "1" << endl;
     return 0;
 }
 

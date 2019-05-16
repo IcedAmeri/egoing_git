@@ -1,8 +1,10 @@
 #include <iostream>
 
+using namespace std;
+
 int main()
 {
-    std::cout << "work.cpp" << endl;
+    cout << "work.cpp" << endl;
     return 0;
 }
 

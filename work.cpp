@@ -8,6 +8,7 @@ int main()
     cout << "2" << endl;
     cout << "mh3" << endl;
     cout << "h4" << endl;
+    cout << "5" << endl;
     return 0;
 }
 
